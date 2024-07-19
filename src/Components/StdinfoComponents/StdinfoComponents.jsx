@@ -22,7 +22,7 @@ const StdinfoComponents = () => {
           {isvisible ? 'Hide Details' : 'Show Details'}
         </button>
         <div className={`additional-content ${isvisible ? 'visible' : 'hidden'}`}>
-            <p>I am from Dubai cross street and currently pursuing B.E(ROYAL MECH) at BATMAN UNIVERSITY OF SIGMA. I will go help people at midnight and i saved many people lives</p>
+            <p>I am from Dubai cross street and currently pursuing B.E(MECH) at SAVEETHA ENGINEERING COLLEGE.(1000% PLACEMENT GUARANTEE, 90 LPA ASSURANCE)</p>
         </div>
     </div>
     </div>
